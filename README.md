@@ -1,5 +1,15 @@
 ## Olá, sou José Davi, Estudante de programação! 🎮👾🦾
 
+Sou Analista de Qualidade apaixonado por Programação e Quality Assurance
+
+**Sobre mim**
+
+- 💼 Analista de Qualidade Junior
+
+- ❤️ Adoro codigos em Python e C#, estou sempre ansioso em aprender.
+
+- 💬 Pergunte-me sobre qualquer coisa [aqui](https://github.com/StrJosedavi/StrJosedavi/issues)
+
 <br><div align="center">
    <a href="https://github.com/StrJosedavi">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StrJosedavi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
