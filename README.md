@@ -1,6 +1,6 @@
-## Olá, sou José Davi, Estudante de programação! 🎮👾🦾
+## Olá, sou José Davi, Estudante e Desenvolvedor! 🎮👾🦾
 
-Sou Analista de Qualidade apaixonado por Programação e Quality Assurance
+Sou Analista de Qualidade apaixonado por Desenvolvimento e Quality Assurance
 
 **Sobre mim**
 
