@@ -4,7 +4,7 @@ Analista de Qualidade apaixonado por Desenvolvimento e Quality Assurance
 
 **Sobre mim**
 
-- 💼 Experiência de 1 ano como Analista de Qualidade Junior 
+- 💼 1 ano de Experiência como Analista de Qualidade Junior 
 
 - ❤️ Testes Manuais, Teste Automatizados, C#, JavaScript e Python
 
