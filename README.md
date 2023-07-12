@@ -6,7 +6,7 @@ Analista de Qualidade apaixonado por Desenvolvimento e Quality Assurance
 
 - 💼 1 ano de Experiência como Analista de Qualidade Junior 
 
-- ❤️ Testes Manuais, Teste Automatizados, C#, JavaScript e Python
+- ❤️ Testes Manuais, Teste Automatizados, C# .NET, JavaScript ou Typescript + React e Python
 
 - 💬 Pergunte-me sobre qualquer coisa [aqui](https://github.com/StrJosedavi/StrJosedavi/issues)
 
