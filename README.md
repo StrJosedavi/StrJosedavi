@@ -1,4 +1,4 @@
-## Olá, sou José Davi, Estudante e Desenvolvedor! 🎮👾🦾
+## Olá, sou José Davi, Estudante e Analista de Qualidade, nas horas vagas Desenvolvedor! 🎮👾🦾
 
 Analista de Qualidade apaixonado por Desenvolvimento e Quality Assurance
 
