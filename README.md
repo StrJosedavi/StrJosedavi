@@ -1,6 +1,6 @@
 ## Olá, sou José Davi, Estudante e Analista de Qualidade, nas horas vagas Desenvolvedor! 🎮👾🦾
 
-Analista de Qualidade apaixonado por Desenvolvimento e Quality Assurance
+Analista de Qualidade apaixonado por Tecnologias de desenvolvimento e testes automatizados.
 
 **Sobre mim**
 
