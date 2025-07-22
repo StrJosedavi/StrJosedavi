@@ -35,7 +35,7 @@ Procuro manter os testes organizados e versionados, usando TDD e BDD quando faz 
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrJosedavi&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrJosedavi&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </div>
 
 ## 📫 Contato
