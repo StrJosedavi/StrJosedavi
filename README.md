@@ -82,13 +82,10 @@ I believe quality is not a phase — it’s part of the engineering process.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=StrJosedavi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://streak-stats.demolab.com/?user=StrJosedavi&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrJosedavi&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
+
 
 ---
 
